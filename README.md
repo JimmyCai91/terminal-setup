@@ -42,5 +42,6 @@
     ```
     Update `.zshrc`, then in terminal run:
     ```bash
-    source ~/.zshrc
+    $ zsh
+    $ source ~/.zshrc
    ```
